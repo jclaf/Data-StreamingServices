@@ -4,8 +4,8 @@ Utiliser des outils Big Data (Hadoop, Hive, Sqoop) afin d'importer et d'analyser
 
 #
 
-Cours M1 Semestre 2
+Cours Master 1 Informatique option Big Data Semestre 1
 
-Visualisation de données massives 
+FrameWork Big Data
 
 Université Paris 8
